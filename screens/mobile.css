@@ -14,9 +14,20 @@ main {
     border:1px red solid;
     height: 100%;
     padding: 25px;
+    background-color: #fafafa;
 }
 
 header {
     border:4px green solid;
     width: 100%;
+}
+
+h1 {
+    width: 100%;
+    border:1px red solid;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: hsl(234, 12%, 34%);
+    font-size: 0.9375rem;
 }
