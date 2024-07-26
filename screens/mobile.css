@@ -80,9 +80,21 @@ article:first-of-type{
     margin-top: 2rem;
 }
 
+article:nth-of-type(2){
+    border-top:3px hsl(0, 78%, 62%) solid;
+}
+
+article:nth-of-type(3){
+    border-top:3px hsl(34, 97%, 64%) solid;
+}
+
+article:nth-of-type(4){
+    border-top:3px hsl(212, 86%, 64%) solid;
+}
+
 h3 {
     width: 100%;
-    border:1px red solid;
+    /* border:1px red solid; */
     font-family: "Poppins", sans-serif;
     font-weight: 600;
     font-style: normal;
@@ -94,7 +106,7 @@ h3 {
 
 span {
     width: 100%;
-    border:1px red solid;
+    /* border:1px red solid; */
     font-family: "Poppins", sans-serif;
     font-weight: 300;
     font-style: normal;
