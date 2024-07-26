@@ -7,12 +7,12 @@
 
 html,body {
     border:2px black solid;
-    height: 100%;
+    height:auto;
 }
 
 main {
     border:1px red solid;
-    height: 100%;
+    height: auto;
     padding: 25px;
     background-color: #fafafa;
 }
@@ -57,4 +57,23 @@ p {
     /* font-size: 1.2rem; */
     text-align: center;
     margin-top: 2rem;
+}
+
+section {
+    width: 100%;
+    /* border:2px yellow solid; */
+}
+
+article {
+    width: 100%;
+    padding: 25px;
+    height: auto;
+    box-shadow: 0 15px 20px #e0e9f2;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+#border-blue {
+    border-top: 3px hsl(180, 62%, 55%) solid;
+    margin-top: 20px;
 }
