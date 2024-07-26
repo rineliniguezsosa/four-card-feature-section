@@ -73,7 +73,7 @@ article {
     margin-bottom: 20px;
 }
 
-#border-blue {
+article:first-of-type{
     border-top: 3px hsl(180, 62%, 55%) solid;
     margin-top: 20px;
 }
