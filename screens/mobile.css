@@ -63,6 +63,8 @@ section {
     display: flex;
     flex-direction: column;
     align-items: center;
+    height: auto;
+    gap: 2rem;
 }
 
 article {
@@ -72,14 +74,12 @@ article {
     height: auto;
     box-shadow: 0 15px 20px #e0e9f2;
     border-radius: 3%;
-    margin-bottom: 2rem;
     display: flex;
     flex-direction: column;
 }
 
-article:first-of-type{
+article:nth-of-type(1){
     border-top: 3px hsl(180, 62%, 55%) solid;
-    margin-top: 2rem;
 }
 
 article:nth-of-type(2){
