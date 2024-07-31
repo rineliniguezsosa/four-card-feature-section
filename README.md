@@ -37,8 +37,8 @@ mobile
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [here](https://your-solution-url.com)
+- Live Site URL: [here](https://rineliniguezsosa.github.io/four-card-feature-section/)
 
 ## My process
 
