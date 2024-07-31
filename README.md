@@ -84,7 +84,7 @@ Follow these steps to download and run the project locally
   Open your terminal and run the following command:
 
    ```bash
-   git clone https://github.com/rineliniguezsosa/product-preview-card-component.git
+   git clone https://github.com/rineliniguezsosa/four-card-feature-section.git
    ```
 
 2.- **Navigate to the project directory:**
